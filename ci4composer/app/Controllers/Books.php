@@ -14,14 +14,24 @@ class Books extends BaseController
     }
     public function index()
     {
-        $buku = $this->bukuModel->findAll();
+        //$buku = $this->bukuModel->findAll();
         $data = [
             'title' => 'Daftar Buku',
-            'buku' => $buku
+            'buku' => $this->bukuModel->getBuku()
         ];
 
-        //$bukuModel = new \App\Models\BooksModel();
-
         return view('books/index', $data);
+    }
+    public function detail($slug)
+    {
+        //$buku = $this->bukuModel->where(['slug' => $slug])->first();
+
+        //$buku = $this->bukuModel->getBuku($slug); pindah ke data
+        $data = [
+            'title' => 'Detail Buku',
+            'buku' => $this->bukuModel->getBuku($slug)
+        ];
+
+        return view('books/detail', $data);
     }
 }
