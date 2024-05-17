@@ -1,4 +1,12 @@
 #CI4PEMWEB2
+![Screenshot (434)](https://github.com/allfarisyii/CI4PEMWEB2/assets/145305224/556c13df-2c35-4e07-9b32-504a61d83d76)
+
+![Screenshot (433)](https://github.com/allfarisyii/CI4PEMWEB2/assets/145305224/a9c52dd0-f1e6-4a34-9769-d37d967e0b19)
+
+![Screenshot (432)](https://github.com/allfarisyii/CI4PEMWEB2/assets/145305224/f627a0c0-469c-4446-a1f3-109c01e66b4c)
+
+![Screenshot (431)](https://github.com/allfarisyii/CI4PEMWEB2/assets/145305224/a2497111-3ad1-4865-8789-60492321de77)
+
 ![Screenshot (425)](https://github.com/allfarisyii/CI4PEMWEB2/assets/145305224/af02a0b5-2547-4497-b05e-074ba090ef63)
 
 ![Screenshot (424)](https://github.com/allfarisyii/CI4PEMWEB2/assets/145305224/cf230104-9e6b-429b-b9af-8e117e3d09c5)
