@@ -19,6 +19,7 @@
                     <a class="nav-link active" aria-current="page" href="/">Home</a>
                     <a class="nav-link" aria-current="#" href="/pages/about">About</a>
                     <a class="nav-link" aria-curent="#" href="/books/index">Buku</a>
+                    <a class="nav-link" href="/penulis/">Daftar Penulis</a>
                     <a class="nav-link" aria-current="#" href="/pages/contact">Kontak</a>
                     
                 </div>
